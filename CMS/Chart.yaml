@@ -1,0 +1,10 @@
+name: bzcms
+version: 0.1.0
+description: bzcms is the CMS layer storing webpage data
+home: git@github.com:manjunathkg/bz-charts.git
+sources:
+- http://www.github.com:manjunathkg/bz-charts.git
+maintainers:
+- name: Manjunath Kaliyur
+  email: mkaliyur@gmail.com
+engine: gotpl

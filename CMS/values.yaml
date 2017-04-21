@@ -1,0 +1,24 @@
+# container name
+name: bzcms
+
+# docker image
+image: kplm/bz-cms
+
+# docker image tag
+imageTag: latest
+
+# number of replicas to run
+replicas: 1
+
+ 
+# label selector to filter pods by, e.g. app=foo,stage!=prod
+labels: app=bzcms
+
+# annotation selector to filter pods by, e.g. chaos.alpha.kubernetes.io/enabled=true
+annotations:
+
+ 
+# resource requests and limits
+resources:
+  cpu: 10m
+  memory: 16Mi
