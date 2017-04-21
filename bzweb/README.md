@@ -1,8 +1,8 @@
 # bzweb Helm Chart
 
-[bzweb](https://github.com/manjunathkg/bz-charts/bzweb) Presentation layer for bizzns apps. Serves static content
+[bzweb](https://github.com/manjunathkg/bz-charts/) Presentation layer for bizzns apps. Serves static content
 
-## TL;DR;
+ 
 
 ```console
 $ helm install bzweb
