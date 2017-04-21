@@ -1,4 +1,4 @@
-# bzweb Helm Chart
+# bzweb Helm Chart.
 
 [bzweb](https://github.com/manjunathkg/bz-charts/) Presentation layer for bizzns apps. Serves static content
 
