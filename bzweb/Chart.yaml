@@ -1,0 +1,10 @@
+name: bzweb
+version: 0.1.0
+description: bzweb is the presentation layer displaying static web pages
+home: git@github.com:manjunathkg/bz-charts.git
+sources:
+- http://www.github.com:manjunathkg/bz-charts.git
+maintainers:
+- name: Manjunath Kaliyur
+  email: mkaliyur@gmail.com
+engine: gotpl
