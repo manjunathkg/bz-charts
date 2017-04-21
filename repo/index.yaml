@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   bzweb:
-  - created: 2017-04-21T12:43:55.55614557+05:30
+  - created: 2017-04-21T12:47:18.579856342+05:30
     description: bzweb is the presentation layer displaying static web pages
     digest: 760507ffa572727499b1b09774b3d5ee7c5cb5793486f5b47a23d88a244fea52
     engine: gotpl
@@ -15,4 +15,4 @@ entries:
     urls:
     - git@github.com:manjunathkg/bz-charts.git/bzweb-0.1.0.tgz
     version: 0.1.0
-generated: 2017-04-21T12:43:55.530409711+05:30
+generated: 2017-04-21T12:47:18.576916695+05:30
