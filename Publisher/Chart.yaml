@@ -1,6 +1,6 @@
-name: bzpublisher
+name: Publisher
 version: 0.1.0
-description: bzpubliser is the publishing engine which generates static websites presented by bzweb
+description: Publisher is the publishing engine which generates static websites presented by bzweb
 home: git@github.com:manjunathkg/bz-charts.git
 sources:
 - http://www.github.com:manjunathkg/bz-charts.git

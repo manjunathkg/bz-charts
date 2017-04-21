@@ -1,7 +1,38 @@
 apiVersion: v1
 entries:
+  CMS:
+  - created: 2017-04-22T01:18:39.424855+05:30
+    description: CMS is the CMS layer storing webpage data
+    digest: a597f36eed82963feea09c77b46cce1e142c1c978bc8c3650464c2270bdef85c
+    engine: gotpl
+    home: git@github.com:manjunathkg/bz-charts.git
+    maintainers:
+    - email: mkaliyur@gmail.com
+      name: Manjunath Kaliyur
+    name: CMS
+    sources:
+    - http://www.github.com:manjunathkg/bz-charts.git
+    urls:
+    - https://manjunathkg.github.com/bz-charts/repo/CMS-0.1.0.tgz
+    version: 0.1.0
+  Publisher:
+  - created: 2017-04-22T01:18:39.425272+05:30
+    description: Publisher is the publishing engine which generates static websites
+      presented by bzweb
+    digest: 2ba60a881b76266dc990bfb43f8058c66b729ee14df80d787312eb69ff945fe8
+    engine: gotpl
+    home: git@github.com:manjunathkg/bz-charts.git
+    maintainers:
+    - email: mkaliyur@gmail.com
+      name: Manjunath Kaliyur
+    name: Publisher
+    sources:
+    - http://www.github.com:manjunathkg/bz-charts.git
+    urls:
+    - https://manjunathkg.github.com/bz-charts/repo/Publisher-0.1.0.tgz
+    version: 0.1.0
   bzweb:
-  - created: 2017-04-22T00:31:54.807392449+05:30
+  - created: 2017-04-22T01:18:39.439887706+05:30
     description: bzweb is the presentation layer displaying static web pages
     digest: 81337f9f450daeb96a0ac1d10646af3d38e5540acc745ca9c7db1eb3e1afd72d
     engine: gotpl
@@ -15,4 +46,4 @@ entries:
     urls:
     - https://manjunathkg.github.com/bz-charts/repo/bzweb-0.1.0.tgz
     version: 0.1.0
-generated: 2017-04-22T00:31:54.786038924+05:30
+generated: 2017-04-22T01:18:39.423873+05:30
